@@ -15,10 +15,10 @@ How you decide to use this is up to you, it is simply a dry application used for
  
  Front Page                                                     
  
- [!alt text](./Assets/notetaker1.PNG)
+ [!Alt text](./Assets/notetaker1.PNG)
 
 
   Note Page                                                      
  
- [!alt text](/Assets/notetaker2.PNG)
+ [!Alt text](/Assets/notetaker2.PNG)
 
