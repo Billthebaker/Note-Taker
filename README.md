@@ -12,13 +12,13 @@ How you decide to use this is up to you, it is simply a dry application used for
  Then click on the "Save" button on the right hand side.
 
  # Preview
- ------------------------------------------------------------------
- | Front Page                                                     |
- ------------------------------------------------------------------
+ 
+ Front Page                                                     
+ 
  [!alt text](./Assets/notetaker1.PNG)
 
- ------------------------------------------------------------------
- | Note Page                                                      |
- ------------------------------------------------------------------
+
+  Note Page                                                      
+ 
  [!alt text](/Assets/notetaker2.PNG)
 
